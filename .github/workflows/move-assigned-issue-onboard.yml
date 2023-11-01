@@ -20,4 +20,4 @@ jobs:
         with:
           project: Sample Project
           column: In Progress
-          repo-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repo-token: ${{ secrets.SUPERSECRET }}
